@@ -20,7 +20,7 @@
       {
         "/todos/delete": {
           "method": "post",
-          "src": "/todos/delete"
+          "src": "/todos/destroy"
         }
       },
       {
